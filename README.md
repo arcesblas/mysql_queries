@@ -3,7 +3,8 @@ A collection of useful and reusable MySQL queries for various projects. This rep
 
 ## Structure
 
-- **queries/** – Mainly used to store useful stored procedures, organized by domain (e.g. users, products, analytics).
+- **queries/** - Useful queries written in MYSQL.
+- **procedures/** – Stored procedures written in MYSQL.
 - **snippets/** – Common patterns, joins, and subqueries that are frequently needed.
 
 ## Usage
